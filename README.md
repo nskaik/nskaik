@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=true&width=1200&lines=Welcome+to+my+GitHub+Profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&pause=1000&center=true&random=true&width=1000&lines=Welcome+to+my+GitHub+Profile" alt="Typing SVG" /></a>
 
 ## I'm Nael W. Skaik 👋
 
