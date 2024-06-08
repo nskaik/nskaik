@@ -32,10 +32,10 @@ Feel free to reach out if you have any interesting projects in mind!
 
 **How to Reach Me:**
 
-- For inquiries or collaborations, please send me an email at nskaik@gmail.com. I look forward to connecting with you!
 - [Explore my portfolio and client reviews on Upwork](https://www.upwork.com/freelancers/nskaik)
 - [Discover more about my professional background and services on LinkedIn](https://www.linkedin.com/in/nskaik/)
 - [Have a question or need more info? Send me a message on WhatsApp](https://api.whatsapp.com/send?phone=201555118668&text=Hello%20Nael%2C%20I%20am%20interested%20in%20learning%20more%20about%20your%20web%20development%20services.%20Could%20you%20please%20provide%20more%20details%3F)
+- For inquiries or collaborations, please send me an email at nskaik@gmail.com. I look forward to connecting with you!
 
 <!--
 **Fun Fact:**
