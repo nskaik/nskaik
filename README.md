@@ -1,7 +1,9 @@
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&pause=1000&center=true&random=true&width=1000&lines=Welcome+to+my+GitHub+Profile" alt="Typing SVG" /></a>
 
-# I'm Nael W. Skaik
+# I'm Nael W. Skaik 👋
+
+** Experienced Full-Stack Developer | Laravel, PHP, Vue.js, Nuxt.js Specialist | Ecommerce Solutions | Crafting Sustainable Web Solutions for Over 10 Years **
 
 <!-- ## I'm Nael W. Skaik 👋 -->
 
